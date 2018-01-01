@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-25T05:32:37.473Z</updated>
+  <updated>2018-01-01T16:05:24.563Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/25/test/"/>
-    <id>http://yoursite.com/2017/12/25/test/</id>
-    <published>2017-12-25T05:32:37.471Z</published>
-    <updated>2017-12-25T05:32:37.473Z</updated>
+    <title>2018年</title>
+    <link href="http://yoursite.com/2018/01/01/2018/"/>
+    <id>http://yoursite.com/2018/01/01/2018/</id>
+    <published>2018-01-01T15:24:09.000Z</published>
+    <updated>2018-01-01T16:05:24.563Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>　　这是自创立博客以来的第一篇文章，也是2018年第一天的文章。回想起前几年的碌碌无为，不得不有些感慨。时间在不经意间从我手中流失，而自己却依然在原地踏步，丝毫没有些许的进步。心中不免有些自责，但是自责过后却是依然保持着这种生活作风，不免有些悲剧。如果不改变一种方式来纠正自己的生活作风，自己这一辈子可能就是这样过去了，几年后回想起今天的自己，可能会捶胸顿足，但却于事无补。</p><p>　　今天这篇文章可能是自己今后步入正轨的一些改变，只希望自己能坚持下去，多年之后能感谢今天的自己。在这新的一年中的第一天，给自己定下今天以来要实现的几个小目标：</p><ol><li>每周两篇博客</li><li>每周四次运动以上</li><li>每天早读英语，背单词</li><li>考驾校</li><li>学习一项新的技能（滑冰，魔术其他）</li><li>每周一天出去环岛</li><li>学习唱歌</li><li>学习做饭</li><li>一个月看一本书（传记或者人文历史）</li></ol><p>　　<strong>以上几点希望能尽全力去做到，致２０１９的自己。共勉</strong></p><p>　　</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;　　这是自创立博客以来的第一篇文章，也是2018年第一天的文章。回想起前几年的碌碌无为，不得不有些感慨。时间在不经意间从我手中流失，而自己却依然在原地踏步，丝毫没有些许的进步。心中不免有些自责，但是自责过后却是依然保持着这种生活作风，不免有些悲剧。如果不改变一种方式来纠正自
       
     
     </summary>
